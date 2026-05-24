@@ -393,7 +393,7 @@ footer{
 }
 .footer1{
 	background-color:aliceblue;
-	width:150%;
+	width:145%;
 	height:350px;
 	margin:37% 1.5% 0 1.5%;
 }
@@ -443,10 +443,10 @@ input[type="email"]{
 }
 .footer2{
 	background-color:azure;
-	width:150%;
+	width:141%;
 	height:1100px;
 	padding:2%;
-	margin:0% 1.5% 0% 1.5%;
+	margin:-5% 1.5% 0% 1.5%;
 	column-count:3;
 	column-width:35%;
 }
@@ -466,7 +466,7 @@ input[type="email"]{
 }
 .footer3{
 	background-color:aliceblue;
-	width:150%;
+	width:145%;
 	text-align:center;
 	height:350px;
 	margin:-9% 1.5% 0 1.5%;
